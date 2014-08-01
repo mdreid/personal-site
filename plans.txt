@@ -1,0 +1,13 @@
+Components of my website:
+-Home page/About me
+-Projects page
+-Contact page
+
+Technologies to use:
+-HTML/CSS
+-Twitter Bootstrap (for design)
+-HTML5 Boilerplate
+-Github
+
+Need to figure out:
+-Hosting [worry about this later]
