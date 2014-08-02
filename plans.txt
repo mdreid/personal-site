@@ -8,6 +8,7 @@ Technologies to use:
 -Twitter Bootstrap (for design)
 -HTML5 Boilerplate
 -Github
+-vim
 
 Need to figure out:
 -Hosting [worry about this later]
