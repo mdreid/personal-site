@@ -1,0 +1,3 @@
+I was going to use Twitter Bootstrap since I don't have the keenest eye for design, but I decided not to for two reasons:
+(1) I want this website to look different from all of the sites designed with Bootstrap
+(2) I get to learn more about CSS/JS and general design principles by "prettifying" the site myself
