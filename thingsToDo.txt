@@ -1,5 +1,5 @@
 Things to Do:
 -About me page
--Writing page
+-Menu on homepage
 
 -Add CSS/JS to "prettify"
