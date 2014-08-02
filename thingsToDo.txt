@@ -1,0 +1,5 @@
+Things to Do:
+-About me page
+-Writing page
+
+-Add CSS/JS to "prettify"
