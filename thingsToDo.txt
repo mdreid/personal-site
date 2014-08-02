@@ -1,5 +1,6 @@
 Things to Do:
 -About me page
 -Menu on homepage
+-Links page
 
 -Add CSS/JS to "prettify"
