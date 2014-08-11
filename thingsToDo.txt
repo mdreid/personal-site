@@ -1,6 +1,9 @@
 Things to Do:
--About me page
 -Menu on homepage
+-Favicons
+-Give each page a title
+
+
 -Links page
 
 -Add CSS/JS to "prettify"
