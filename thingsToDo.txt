@@ -1,9 +1,15 @@
 Things to Do:
--Menu on homepage
+
+High level:
+-Spend some time designing how you want the webpage to be structured
+
+HTML:
+-Menu on all pages [may involve server side code or js]
 -Favicons
--Give each page a title
+-(N) Give each page a title
+-(N) Contact page
 
-
--Links page
-
+CSS:
 -Add CSS/JS to "prettify"
+-Menu formatting
+-Add borders to pages
